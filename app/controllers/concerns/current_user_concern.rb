@@ -9,7 +9,7 @@ module CurrentUserConcern
     OpenStruct.new(name: "Guest User", 
                    first_name: "Guest", 
                    last_name: "User", 
-                   email: "guest@example.com
+                   email: "guest@example.com"
                   )
   end
 end
